@@ -1,0 +1,108 @@
+p {
+    text-align: center;
+}
+
+div{
+    align-content: center;
+    position: absolute;
+}
+
+h4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: lightgray;
+    background-color: rgb(12, 10, 10);
+    font-weight: 300;
+}
+
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: rgb(12, 10, 10);
+    font-weight: bold;
+    font-size: xx-large;
+    display: block;
+    width: 800px;
+    align-self: center;
+    color: lightgray;
+}
+
+.imagen{
+    width: 800px;
+    height: 300px;
+    align-self: center;
+    position: absolute;
+    top: 60.4px;
+}
+
+.texto{
+    width: 400px;
+    background-color: rgb(12, 10, 10);
+    color: lightgray;
+}
+
+.claseDeTexto{
+    top: 366px;
+}
+.claseDeLista{
+    top: 366px;
+    left: 420px;
+}
+
+body{
+    background-color: rgb(12, 10, 10);
+}
+
+#neg{
+    color: white;
+}
+
+#gris{
+    color: lightgray;
+}
+
+#turq{
+    color: cyan;
+}
+
+#ama{
+    color: yellow;
+}
+
+#verde{
+    color: greenyellow;
+}
+
+#naranja{
+    color: orange;
+}
+
+#azul{
+    color: blue;
+}
+
+#rojo{
+    color: red;
+}
+
+#v{
+    color: green;
+}
+
+#c{
+    color: brown;
+}
+
+#m{
+    color: purple;
+}
+
+#r{
+    color: pink;
+}
+
+a {
+    color: gold;
+}
+
